@@ -1,0 +1,26 @@
+div {
+    height: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.lightgreen {
+    background-color: #04ed65;
+}
+
+.darkgreen {
+    background-color: #347a64;
+}
+body {
+    background: linear-gradient(to bottom, #ff3300 0%, #0000cc 100%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    font-family: 'Supermercado One', cursive;
+}
